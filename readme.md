@@ -18,7 +18,7 @@ In this exercise, we
 
 8. Converting URDF to FBX file - `Pranav`
 
-9. Simulating in Falcon Sim - `Pranav, Akshun`
+9. Simulating in Falcon Sim - `Pranav, Akshun and Aakash`
 
 ## Team members
 
