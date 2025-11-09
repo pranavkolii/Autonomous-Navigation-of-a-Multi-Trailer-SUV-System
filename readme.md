@@ -2,9 +2,9 @@
 
 In this exercise, we
 
-1. Design a suv (with 2 trailers attached) model in Solidworks - `Pranav`
+1. Design a suv (with 2 trailers attached) model in Solidworks and convert to URDF - `Pranav`
 
-2. Export the solidworks model to urdf, and made compatible with ros2 - `Mathew`
+2. Made URDF compatible with ros2 - `Mathew`
 
 3. Add ros2 / gazebo controllers to the urdf model - `Mathew`
 
