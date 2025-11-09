@@ -18,7 +18,9 @@ In this exercise, we
 
 8. Converting URDF to FBX file - `Pranav`
 
-9. Simulating in Falcon Sim - `Pranav, Akshun and Aakash`
+9. Setting up logic and physics of the suv in the Unreal Editor- `Pranav`
+
+10. Simulating in Falcon Sim - `Pranav, Akshun and Aakash`
 
 ## Team members
 
