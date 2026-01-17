@@ -1,4 +1,4 @@
-# Robot Modelling project 1
+# Autonomous Navigation of a Multi-Trailer SUV System
 
 In this exercise, we
 
@@ -51,3 +51,7 @@ ros2 run closed_loop_controller controller
 ros2 launch SUV gazebo_teleop.launch
 ros2 run suv_teleop keyboard_teleop
 ```
+
+## Outcomes
+* Developed a complex multi-link robot model consisting of an SUV with two attached trailers in SolidWorks, exporting the assembly via URDF for ROS 2 compatibility in Gazebo and RViz.
+* Engineered a closed-loop PID control system and integrated LiDAR sensors to enable autonomous point-to-point navigation and obstacle detection within high-fidelity simulation environments including FalconSim (Duality).
